@@ -2,6 +2,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+<script src="//code.tidio.co/s1jhs4eoj4qnj18p4qcpx3h8y4i0gbgt.js" async></script>
   
 
 ### <div align="center">I'm Ganesh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
