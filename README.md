@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Ganesh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">Hi I'm Ganesh, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
 
 
 ## 🌐 Socials:
