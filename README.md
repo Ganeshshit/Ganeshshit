@@ -38,6 +38,7 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 ```
 
 <br>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🛠️ Tech Stack
 
@@ -62,35 +63,336 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 
 <br>
 
-## 🚀 Featured Work
+## 🚀 Featured Engineering Work
+
+> **From database design to production UI — I build complete, connected systems.**
+
+<br>
 
 <table width="100%">
 <tr>
-<th align="left">Domain</th>
-<th align="left">What it involves</th>
-<th align="left">Stack</th>
+<td width="50%" valign="top">
+
+## 🏦 Gessnik
+
+### Vehicle Recovery & Operations Platform
+
+A full-stack operational platform connecting **banks, branches, recovery agents, vehicles and field operations** through a centralized backend.
+
+**⚡ Built**
+
+* 🔐 Role & permission-based access
+* 🚗 Vehicle lifecycle & recovery tracking
+* 🏦 Bank → Branch → Recovery workflows
+* 📍 GPS & latest-location tracking
+* 📝 Audit & activity history
+* 📊 Operational dashboards
+* 📎 Document management
+* 🔄 Status-driven workflows
+* 📧 Automated data ingestion pipelines
+* 🗃️ Transaction-safe relational data
+
+**Architecture**
+
+`Flutter` → `REST API` → `NestJS` → `Prisma` → `PostgreSQL`
+
+**Infrastructure**
+
+`Redis` · `MinIO` · `Nginx` · `Linux` · `Docker`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎓 Medini EduTech
+
+### LMS & Certificate Automation
+
+A multi-tenant education platform handling learners, courses, organizations, certificates and verification workflows.
+
+**⚡ Built**
+
+* 🏢 Multi-tenant architecture
+* 👨‍🎓 Student & course management
+* 📥 Bulk Excel imports
+* 🎓 Automated certificates
+* 🖨️ HTML → PDF generation
+* 🔎 Public certificate verification
+* 📊 Admin dashboards
+* 🔐 Authentication & authorization
+* ⚙️ Background processing
+* 🗃️ Structured relational data
+
+**Architecture**
+
+`React` → `Express` → `Prisma` → `PostgreSQL`
+
+**Automation**
+
+`Puppeteer` · `Redis` · `Object Storage`
+
+</td>
 </tr>
+
 <tr>
-<td valign="top">🔐 <b>Backend Systems</b></td>
-<td valign="top">RBAC with granular permissions, JWT auth, audit/activity logging, standardized response interceptors, Swagger docs from day one</td>
-<td valign="top"><img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/-Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/></td>
+<td width="50%" valign="top">
+
+## 📱 Field Operations App
+
+### Flutter Mobile Infrastructure
+
+A production mobile architecture designed for field users working with real-time backend data.
+
+**⚡ Engineering**
+
+* 🧩 Dependency Injection with GetIt
+* 🏗️ Clean Architecture
+* 📦 Repository pattern
+* 🎯 UseCase-driven business logic
+* 🔐 Secure token storage
+* 🌍 Environment-based configuration
+* 📡 API integration layer
+* 🐛 Environment-aware logging
+* 🔄 Offline/error-state handling
+
+**Flow**
+
+`Flutter UI`
+↓
+`UseCases`
+↓
+`Repositories`
+↓
+`REST API`
+↓
+`PostgreSQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 Operations Command Center
+
+### React Admin & Analytics
+
+Data-dense interfaces designed to turn backend records into actionable operational information.
+
+**⚡ Built**
+
+* 📈 KPI dashboards
+* 📊 Interactive charts
+* 🔍 Advanced filtering
+* 🗂️ Data tables
+* 🌑 Dark design system
+* ✨ Framer Motion animations
+* 🧱 Reusable components
+* 🔐 Permission-aware UI
+* 📱 Responsive layouts
+* ⚡ API-driven rendering
+
+**Stack**
+
+`React` · `TypeScript` · `Tailwind CSS`
+
+**Data**
+
+`REST APIs` → `PostgreSQL`
+
+</td>
 </tr>
+
 <tr>
-<td valign="top">📜 <b>Certificate & LMS Pipelines</b></td>
-<td valign="top">Multi-tenant learning platforms with automated certificate generation, bulk Excel imports, and public verification portals</td>
-<td valign="top"><img src="https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/-Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white"/> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></td>
-</tr>
-<tr>
-<td valign="top">📱 <b>Flutter Mobile Apps</b></td>
-<td valign="top">Clean DI with GetIt, modular core/repository/usecase layers, environment-based logging, secure token storage</td>
-<td valign="top"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></td>
-</tr>
-<tr>
-<td valign="top">🎨 <b>React Dashboards</b></td>
-<td valign="top">Data-dense admin dashboards, dark design systems, animated charts, Framer Motion transitions</td>
-<td valign="top"><img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></td>
+<td width="50%" valign="top">
+
+## 🕒 Attendance System
+
+### Workforce & Attendance Backend
+
+A backend-driven attendance system designed around users, attendance records, roles and operational reporting.
+
+**⚡ Built**
+
+* 👥 User management
+* 🔐 Authentication
+* 🕒 Attendance tracking
+* 📅 Daily records
+* 📊 Reporting APIs
+* 📝 Activity logging
+* 🗃️ Relational data modeling
+* 🔎 Search & filtering
+* 📚 Swagger API documentation
+
+**Stack**
+
+`Node.js` · `TypeScript` · `Express` · `Prisma` · `PostgreSQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 Mail → Database Automation
+
+### Event-Driven Business Automation
+
+An automation pipeline designed to convert incoming business emails into structured system events.
+
+**⚡ Pipeline**
+
+```text
+📧 Incoming Email
+       ↓
+📎 Extract Data / Documents
+       ↓
+🧠 Validate & Classify
+       ↓
+🗃️ Update PostgreSQL
+       ↓
+📁 Store Documents in MinIO
+       ↓
+🔄 Trigger Business Workflow
+       ↓
+📊 Reflect in Dashboard
+```
+
+**Engineering**
+
+* Email ingestion
+* Document extraction
+* Validation
+* Database transactions
+* Object storage
+* Automated status changes
+* Audit trail
+* Failure handling
+
+</td>
 </tr>
 </table>
+
+<br>
+
+---
+
+## 🧠 The Systems Behind The Projects
+
+<table width="100%">
+<tr>
+<td align="center" width="20%">
+
+### 🗄️
+
+**DATABASE**
+
+PostgreSQL
+Prisma
+Transactions
+Relations
+Indexes
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔐
+
+**SECURITY**
+
+JWT
+RBAC
+Permissions
+Secure Storage
+Audit Logs
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚙️
+
+**BACKEND**
+
+NestJS
+Express
+REST APIs
+Swagger
+Validation
+
+</td>
+
+<td align="center" width="20%">
+
+### 📱
+
+**CLIENTS**
+
+Flutter
+React
+TypeScript
+Tailwind
+Dart
+
+</td>
+
+<td align="center" width="20%">
+
+### ☁️
+
+**INFRA**
+
+Redis
+MinIO
+Docker
+Nginx
+Linux
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🔗 One Database. Multiple Experiences.
+
+```text
+                         ┌───────────────────────┐
+                         │      PostgreSQL       │
+                         │                       │
+                         │  Users • Vehicles     │
+                         │  Banks • Branches     │
+                         │  Recoveries • Logs    │
+                         │  Courses • Students   │
+                         │  Certificates • Data  │
+                         └───────────┬───────────┘
+                                     │
+                    ┌────────────────┼────────────────┐
+                    ↓                ↓                ↓
+             ┌────────────┐   ┌────────────┐   ┌────────────┐
+             │   Backend  │   │   Mobile   │   │    Web     │
+             │            │   │            │   │            │
+             │ NestJS     │   │ Flutter    │   │ React      │
+             │ Express    │   │ Dart       │   │ TypeScript │
+             └─────┬──────┘   └─────┬──────┘   └─────┬──────┘
+                   │                │                │
+                   └────────────────┼────────────────┘
+                                    ↓
+                         ┌────────────────────┐
+                         │  Real-world Users  │
+                         │                    │
+                         │ Banks • Agents     │
+                         │ Admins • Students  │
+                         └────────────────────┘
+```
+
+### 🛠️ Engineering Philosophy
+
+**Design the data model first.
+Build the API around the domain.
+Keep business logic isolated.
+Make every important action traceable.
+Then build interfaces that make the system useful.**
+
+> **The database isn't just storage — it's the backbone connecting every part of the product.**
+
 
 <br>
 
