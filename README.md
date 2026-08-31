@@ -15,6 +15,12 @@
 
 <br>
 
+
+<picture>
+<a href="https://github.com/Deri-Kurniawan.png" alt="Developer">
+<img src="https://images.weserv.nl/?url=https://github.com/Ganeshshit.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
+</a>
+</picture>
 ## 🧑‍💻 About Me
 
 ```yaml
