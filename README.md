@@ -38,31 +38,208 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 ```
 
 <br>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br>
+<br>
+<br>
+# ⚡ My Engineering Arsenal
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Markup**
-<img src="https://skillicons.dev/icons?i=c,js,ts,html,css&theme=dark" />
-
-**Frontend**
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,flutter,figma&theme=dark" />
-
-**Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java&theme=dark" />
-
-**Database & Infra**
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis,docker,githubactions&theme=dark" />
-
-**Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
-
-</div>
+> ### `BUILD → CONNECT → SCALE`
+>
+> **A stack chosen for real-world products, not just a list of technologies.**
 
 <br>
 
+<table width="100%">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 🧠 01 · THINK
+
+**Languages**
+
+<br>
+
+`TypeScript`  
+`JavaScript`  
+`Java`  
+`C`
+
+<br>
+
+> **Where logic begins.**
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🎨 02 · BUILD
+
+**Client Layer**
+
+<br>
+
+`React`  
+`Flutter`  
+`Redux`  
+`Tailwind CSS`
+
+<br>
+
+> **Where users interact.**
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### ⚙️ 03 · SERVE
+
+**Backend Layer**
+
+<br>
+
+`Node.js`  
+`NestJS`  
+`Express`  
+`Java`
+
+<br>
+
+> **Where business logic lives.**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 🗄️ 04 · REMEMBER
+
+**Data Layer**
+
+<br>
+
+`PostgreSQL`  
+`Prisma`  
+`MongoDB`  
+`Redis`
+
+<br>
+
+> **Where the system remembers.**
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### ☁️ 05 · SHIP
+
+**Infrastructure**
+
+<br>
+
+`Docker`  
+`GitHub Actions`
+
+<br>
+
+> **Where code becomes production.**
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🧰 06 · CRAFT
+
+**Developer Tools**
+
+<br>
+
+`Git`  
+`GitHub`  
+`VS Code`  
+`Postman`  
+`Figma`
+
+<br>
+
+> **Where ideas become maintainable code.**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+# 🧬 The Stack Behind My Systems
+
+<div align="center">
+
+```text
+                              💡
+                         ┌───────────┐
+                         │   IDEA    │
+                         │  PROBLEM  │
+                         └─────┬─────┘
+                               │
+                               ▼
+
+                    ┌───────────────────────┐
+                    │      EXPERIENCE       │
+                    │                       │
+                    │   ⚛️ React • Flutter  │
+                    │                       │
+                    │     WEB + MOBILE      │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+
+                    ┌───────────────────────┐
+                    │      APPLICATION      │
+                    │                       │
+                    │   NestJS • Node • API │
+                    │                       │
+                    │ 🔐 Auth • RBAC        │
+                    │ 🧠 Business Logic     │
+                    └───────────┬───────────┘
+                                │
+                       ┌────────┴────────┐
+                       │                 │
+                       ▼                 ▼
+
+              ┌────────────────┐  ┌──────────────┐
+              │   🗄️ DATA CORE │  │  ⚡ CACHE    │
+              │                │  │              │
+              │ PostgreSQL     │  │    Redis     │
+              │ Prisma         │  │              │
+              │ MongoDB        │  │ Cache/Queues │
+              └───────┬────────┘  └──────┬───────┘
+                      │                  │
+                      └────────┬─────────┘
+                               │
+                               ▼
+
+                    ┌───────────────────────┐
+                    │     INFRASTRUCTURE    │
+                    │                       │
+                    │ Docker • CI/CD        │
+                    │ Linux • Nginx         │
+                    └───────────┬───────────┘
+                                │
+                                ▼
+
+                         ┌───────────────┐
+                         │ 🚀 PRODUCTION │
+                         │               │
+                         │  REAL SYSTEMS │
+                         └───────────────┘
 ## 🚀 Featured Engineering Work
 
 > **From database design to production UI — I build complete, connected systems.**
