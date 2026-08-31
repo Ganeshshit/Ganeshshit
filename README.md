@@ -36,3 +36,15 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://visitcount.itsvg.in/api?id=Ganeshshit&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
+## 🌐 Let's Connect
+ 
+<div align="center">
+<a href="https://www.linkedin.com/in/ganesh-shit-957246243/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@shitganesh4"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.instagram.com/ganesh___shit/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.facebook.com/ganesh.sheet.779"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://coder-ganesh-34hb.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+ 
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1F20,100:22d3c8&height=120&section=footer" width="100%" />
+ 
