@@ -9,18 +9,18 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shitganesh4@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ganeshshit&style=for-the-badge&color=22d3c8&label=VIEWS)](https://github.com/Ganeshshit)
 
-**[ About ](#-about-me) · [ Stack ](#️-tech-stack) · [ Projects ](#-featured-work) · [ Stats ](#-github-stats) · [ Writing ](#️-latest-writing) · [ Connect ](#-lets-connect)**
+**[ About ](#-about-me) · [ Stack ](#-my-engineering-arsenal) · [ Projects ](#-featured-engineering-work) · [ Stats ](#-github-stats) · [ Writing ](#️-latest-writing) · [ Connect ](#-lets-connect)**
 
 </div>
 
 <br>
 
-
 <picture>
-<a href="https://github.com/Deri-Kurniawan.png" alt="Developer">
+<a href="https://github.com/Ganeshshit" alt="Developer">
 <img src="https://images.weserv.nl/?url=https://github.com/Ganeshshit.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
 </a>
 </picture>
+
 ## 🧑‍💻 About Me
 
 ```yaml
@@ -43,6 +43,7 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 <br>
 <br>
 <br>
+
 # ⚡ My Engineering Arsenal
 
 > ### `BUILD → CONNECT → SCALE`
@@ -57,14 +58,13 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 <td width="33%" align="center" valign="top">
 
 ### 🧠 01 · THINK
-
 **Languages**
 
 <br>
 
-`TypeScript`  
-`JavaScript`  
-`Java`  
+`TypeScript`
+`JavaScript`
+`Java`
 `C`
 
 <br>
@@ -76,14 +76,13 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 <td width="33%" align="center" valign="top">
 
 ### 🎨 02 · BUILD
-
 **Client Layer**
 
 <br>
 
-`React`  
-`Flutter`  
-`Redux`  
+`React`
+`Flutter`
+`Redux`
 `Tailwind CSS`
 
 <br>
@@ -95,14 +94,13 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 <td width="33%" align="center" valign="top">
 
 ### ⚙️ 03 · SERVE
-
 **Backend Layer**
 
 <br>
 
-`Node.js`  
-`NestJS`  
-`Express`  
+`Node.js`
+`NestJS`
+`Express`
 `Java`
 
 <br>
@@ -112,20 +110,18 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 </td>
 
 </tr>
-
 <tr>
 
 <td width="33%" align="center" valign="top">
 
 ### 🗄️ 04 · REMEMBER
-
 **Data Layer**
 
 <br>
 
-`PostgreSQL`  
-`Prisma`  
-`MongoDB`  
+`PostgreSQL`
+`Prisma`
+`MongoDB`
 `Redis`
 
 <br>
@@ -137,12 +133,11 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 <td width="33%" align="center" valign="top">
 
 ### ☁️ 05 · SHIP
-
 **Infrastructure**
 
 <br>
 
-`Docker`  
+`Docker`
 `GitHub Actions`
 
 <br>
@@ -154,15 +149,14 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 <td width="33%" align="center" valign="top">
 
 ### 🧰 06 · CRAFT
-
 **Developer Tools**
 
 <br>
 
-`Git`  
-`GitHub`  
-`VS Code`  
-`Postman`  
+`Git`
+`GitHub`
+`VS Code`
+`Postman`
 `Figma`
 
 <br>
@@ -190,7 +184,6 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
                          └─────┬─────┘
                                │
                                ▼
-
                     ┌───────────────────────┐
                     │      EXPERIENCE       │
                     │                       │
@@ -200,7 +193,6 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
                     └───────────┬───────────┘
                                 │
                                 ▼
-
                     ┌───────────────────────┐
                     │      APPLICATION      │
                     │                       │
@@ -213,7 +205,6 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
                        ┌────────┴────────┐
                        │                 │
                        ▼                 ▼
-
               ┌────────────────┐  ┌──────────────┐
               │   🗄️ DATA CORE │  │  ⚡ CACHE    │
               │                │  │              │
@@ -225,7 +216,6 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
                       └────────┬─────────┘
                                │
                                ▼
-
                     ┌───────────────────────┐
                     │     INFRASTRUCTURE    │
                     │                       │
@@ -234,12 +224,19 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
                     └───────────┬───────────┘
                                 │
                                 ▼
-
                          ┌───────────────┐
                          │ 🚀 PRODUCTION │
                          │               │
                          │  REAL SYSTEMS │
                          └───────────────┘
+```
+
+</div>
+
+<br>
+
+---
+
 ## 🚀 Featured Engineering Work
 
 > **From database design to production UI — I build complete, connected systems.**
@@ -251,7 +248,6 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 <td width="50%" valign="top">
 
 ## 🏦 Gessnik
-
 ### Vehicle Recovery & Operations Platform
 
 A full-stack operational platform connecting **banks, branches, recovery agents, vehicles and field operations** through a centralized backend.
@@ -282,7 +278,6 @@ A full-stack operational platform connecting **banks, branches, recovery agents,
 <td width="50%" valign="top">
 
 ## 🎓 Medini EduTech
-
 ### LMS & Certificate Automation
 
 A multi-tenant education platform handling learners, courses, organizations, certificates and verification workflows.
@@ -315,7 +310,6 @@ A multi-tenant education platform handling learners, courses, organizations, cer
 <td width="50%" valign="top">
 
 ## 📱 Field Operations App
-
 ### Flutter Mobile Infrastructure
 
 A production mobile architecture designed for field users working with real-time backend data.
@@ -334,22 +328,13 @@ A production mobile architecture designed for field users working with real-time
 
 **Flow**
 
-`Flutter UI`
-↓
-`UseCases`
-↓
-`Repositories`
-↓
-`REST API`
-↓
-`PostgreSQL`
+`Flutter UI` → `UseCases` → `Repositories` → `REST API` → `PostgreSQL`
 
 </td>
 
 <td width="50%" valign="top">
 
 ## 📊 Operations Command Center
-
 ### React Admin & Analytics
 
 Data-dense interfaces designed to turn backend records into actionable operational information.
@@ -382,7 +367,6 @@ Data-dense interfaces designed to turn backend records into actionable operation
 <td width="50%" valign="top">
 
 ## 🕒 Attendance System
-
 ### Workforce & Attendance Backend
 
 A backend-driven attendance system designed around users, attendance records, roles and operational reporting.
@@ -408,7 +392,6 @@ A backend-driven attendance system designed around users, attendance records, ro
 <td width="50%" valign="top">
 
 ## 🤖 Mail → Database Automation
-
 ### Event-Driven Business Automation
 
 An automation pipeline designed to convert incoming business emails into structured system events.
@@ -457,7 +440,6 @@ An automation pipeline designed to convert incoming business emails into structu
 <td align="center" width="20%">
 
 ### 🗄️
-
 **DATABASE**
 
 PostgreSQL
@@ -471,7 +453,6 @@ Indexes
 <td align="center" width="20%">
 
 ### 🔐
-
 **SECURITY**
 
 JWT
@@ -485,7 +466,6 @@ Audit Logs
 <td align="center" width="20%">
 
 ### ⚙️
-
 **BACKEND**
 
 NestJS
@@ -499,7 +479,6 @@ Validation
 <td align="center" width="20%">
 
 ### 📱
-
 **CLIENTS**
 
 Flutter
@@ -513,7 +492,6 @@ Dart
 <td align="center" width="20%">
 
 ### ☁️
-
 **INFRA**
 
 Redis
@@ -570,8 +548,9 @@ Then build interfaces that make the system useful.**
 
 > **The database isn't just storage — it's the backbone connecting every part of the product.**
 
-
 <br>
+
+---
 
 ## 📊 GitHub Stats
 
