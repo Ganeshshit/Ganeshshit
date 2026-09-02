@@ -187,7 +187,7 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
                     ┌───────────────────────┐
                     │      EXPERIENCE       │
                     │                       │
-                    │   ⚛️ React • Flutter  │
+                    │      React • Flutter  │
                     │                       │
                     │     WEB + MOBILE      │
                     └───────────┬───────────┘
@@ -198,15 +198,15 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
                     │                       │
                     │   NestJS • Node • API │
                     │                       │
-                    │ 🔐 Auth • RBAC        │
-                    │ 🧠 Business Logic     │
+                    │    Auth • RBAC        │
+                    │    Business Logic     │
                     └───────────┬───────────┘
                                 │
                        ┌────────┴────────┐
                        │                 │
                        ▼                 ▼
               ┌────────────────┐  ┌──────────────┐
-              │   🗄️ DATA CORE │  │  ⚡ CACHE    │
+              │      DATA CORE │  │    CACHE     │
               │                │  │              │
               │ PostgreSQL     │  │    Redis     │
               │ Prisma         │  │              │
@@ -225,7 +225,7 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
                                 │
                                 ▼
                          ┌───────────────┐
-                         │ 🚀 PRODUCTION │
+                         │    PRODUCTION │
                          │               │
                          │  REAL SYSTEMS │
                          └───────────────┘
