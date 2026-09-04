@@ -524,8 +524,6 @@ Then build interfaces that make the system useful.**
 
 <br>
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
