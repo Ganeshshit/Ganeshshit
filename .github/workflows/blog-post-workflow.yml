@@ -22,8 +22,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README
+      - name: Update README with blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@shitganesh4"
           max_post_count: 5
+
+          template: |
+            <table>
+              <tr>
+                <td width="33%" valign="top">
+                  <a href="$url">
+                    <img src="$image_url" width="100%" />
+                  </a>
+                  <br><br>
+                  <h3>
+                    <a href="$url">$title</a>
+                  </h3>
+                  <p>📅 $date</p>
+                </td>
+              </tr>
+            </table>
