@@ -3,10 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3c8,100:1E1F20&height=230&section=header&text=Hi,%20I'm%20Ganesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Web%20and%20Mobile%20%7C%20Coder%20Ganesh&descAlignY=52&descSize=18" width="100%" />
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=700&color=22D3C8&center=true&vCenter=true&width=750&height=100&lines=%24+whoami;%3E+Ganesh;%24+cat+role.txt;%3E+Full-Stack+Developer;%24+stack+--current;%3E+React+%7C+NestJS+%7C+Express+%7C+Flutter;%24+status;%3E+Building+production-grade+systems"
-    alt="Terminal animation"
-  />
+  <img src="assets/terminal-banner.svg" width="100%" alt="Terminal animation" />
 </p>
 <br>
 
