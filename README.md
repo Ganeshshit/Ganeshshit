@@ -32,8 +32,8 @@ focus:
   - Dense, data-rich interfaces with motion & clear hierarchy
   - Backend architecture: RBAC, audit logging, layered services
 currently:
-  - "🔍 Open to product-based & remote-friendly roles"
-  - "🛠️ Freelancing under 'Coder Ganesh'"
+  - "Open to product-based & remote-friendly roles"
+  - "Freelancing under 'Coder Ganesh'"
 fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter code"
 ```
 
@@ -44,7 +44,7 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 <br>
 <br>
 
-# ⚡ My Engineering Arsenal
+# My Engineering Arsenal
 
 > ### `BUILD → CONNECT → SCALE`
 >
@@ -57,7 +57,7 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 
 <td width="33%" align="center" valign="top">
 
-### 🧠 01 · THINK
+### 01 · THINK
 **Languages**
 
 <br>
@@ -74,8 +74,8 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 </td>
 
 <td width="33%" align="center" valign="top">
-
-### 🎨 02 · BUILD
+  
+###  02 · BUILD
 **Client Layer**
 
 <br>
@@ -93,7 +93,7 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 
 <td width="33%" align="center" valign="top">
 
-### ⚙️ 03 · SERVE
+###  03 · SERVE
 **Backend Layer**
 
 <br>
@@ -114,7 +114,7 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 
 <td width="33%" align="center" valign="top">
 
-### 🗄️ 04 · REMEMBER
+### 04 · REMEMBER
 **Data Layer**
 
 <br>
@@ -132,7 +132,7 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 
 <td width="33%" align="center" valign="top">
 
-### ☁️ 05 · SHIP
+### 05 · SHIP
 **Infrastructure**
 
 <br>
@@ -148,7 +148,7 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 
 <td width="33%" align="center" valign="top">
 
-### 🧰 06 · CRAFT
+### 06 · CRAFT
 **Developer Tools**
 
 <br>
@@ -176,7 +176,7 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 
 ---
 
-## 🚀 Featured Engineering Work
+## Featured Engineering Work
 
 > **From database design to production UI — I build complete, connected systems.**
 
@@ -186,23 +186,23 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 <tr>
 <td width="50%" valign="top">
 
-## 🏦 Gessnik
+## Gessnik
 ### Vehicle Recovery & Operations Platform
 
 A full-stack operational platform connecting **banks, branches, recovery agents, vehicles and field operations** through a centralized backend.
 
-**⚡ Built**
+** Built**
 
-* 🔐 Role & permission-based access
-* 🚗 Vehicle lifecycle & recovery tracking
-* 🏦 Bank → Branch → Recovery workflows
-* 📍 GPS & latest-location tracking
-* 📝 Audit & activity history
-* 📊 Operational dashboards
-* 📎 Document management
-* 🔄 Status-driven workflows
-* 📧 Automated data ingestion pipelines
-* 🗃️ Transaction-safe relational data
+*  Role & permission-based access
+*  Vehicle lifecycle & recovery tracking
+*  Bank → Branch → Recovery workflows
+*  GPS & latest-location tracking
+*  Audit & activity history
+*  Operational dashboards
+*  Document management
+*  Status-driven workflows
+*  Automated data ingestion pipelines
+*  Transaction-safe relational data
 
 **Architecture**
 
@@ -216,23 +216,23 @@ A full-stack operational platform connecting **banks, branches, recovery agents,
 
 <td width="50%" valign="top">
 
-## 🎓 Medini EduTech
+##  Medini EduTech
 ### LMS & Certificate Automation
 
 A multi-tenant education platform handling learners, courses, organizations, certificates and verification workflows.
 
-**⚡ Built**
+** Built**
 
-* 🏢 Multi-tenant architecture
-* 👨‍🎓 Student & course management
-* 📥 Bulk Excel imports
-* 🎓 Automated certificates
-* 🖨️ HTML → PDF generation
-* 🔎 Public certificate verification
-* 📊 Admin dashboards
-* 🔐 Authentication & authorization
-* ⚙️ Background processing
-* 🗃️ Structured relational data
+*  Multi-tenant architecture
+*  Student & course management
+*  Bulk Excel imports
+*  Automated certificates
+*  HTML → PDF generation
+*  Public certificate verification
+*  Admin dashboards
+*  Authentication & authorization
+*  Background processing
+*  Structured relational data
 
 **Architecture**
 
@@ -248,22 +248,22 @@ A multi-tenant education platform handling learners, courses, organizations, cer
 <tr>
 <td width="50%" valign="top">
 
-## 📱 Field Operations App
+##  Field Operations App
 ### Flutter Mobile Infrastructure
 
 A production mobile architecture designed for field users working with real-time backend data.
 
-**⚡ Engineering**
+** Engineering**
 
-* 🧩 Dependency Injection with GetIt
-* 🏗️ Clean Architecture
-* 📦 Repository pattern
-* 🎯 UseCase-driven business logic
-* 🔐 Secure token storage
-* 🌍 Environment-based configuration
-* 📡 API integration layer
-* 🐛 Environment-aware logging
-* 🔄 Offline/error-state handling
+*  Dependency Injection with GetIt
+*  Clean Architecture
+*  Repository pattern
+*  UseCase-driven business logic
+*  Secure token storage
+*  Environment-based configuration
+*  API integration layer
+*  Environment-aware logging
+*  Offline/error-state handling
 
 **Flow**
 
@@ -273,23 +273,23 @@ A production mobile architecture designed for field users working with real-time
 
 <td width="50%" valign="top">
 
-## 📊 Operations Command Center
+##  Operations Command Center
 ### React Admin & Analytics
 
 Data-dense interfaces designed to turn backend records into actionable operational information.
 
-**⚡ Built**
+** Built**
 
-* 📈 KPI dashboards
-* 📊 Interactive charts
-* 🔍 Advanced filtering
-* 🗂️ Data tables
-* 🌑 Dark design system
-* ✨ Framer Motion animations
-* 🧱 Reusable components
-* 🔐 Permission-aware UI
-* 📱 Responsive layouts
-* ⚡ API-driven rendering
+*  KPI dashboards
+*  Interactive charts
+*  Advanced filtering
+*  Data tables
+*  Dark design system
+*  Framer Motion animations
+*  Reusable components
+*  Permission-aware UI
+*  Responsive layouts
+*  API-driven rendering
 
 **Stack**
 
@@ -305,22 +305,22 @@ Data-dense interfaces designed to turn backend records into actionable operation
 <tr>
 <td width="50%" valign="top">
 
-## 🕒 Attendance System
+## Attendance System
 ### Workforce & Attendance Backend
 
 A backend-driven attendance system designed around users, attendance records, roles and operational reporting.
 
-**⚡ Built**
+** Built**
 
-* 👥 User management
-* 🔐 Authentication
-* 🕒 Attendance tracking
-* 📅 Daily records
-* 📊 Reporting APIs
-* 📝 Activity logging
-* 🗃️ Relational data modeling
-* 🔎 Search & filtering
-* 📚 Swagger API documentation
+*  User management
+*  Authentication
+*  Attendance tracking
+*  Daily records
+*  Reporting APIs
+*  Activity logging
+*  Relational data modeling
+*  Search & filtering
+*  Swagger API documentation
 
 **Stack**
 
@@ -330,27 +330,27 @@ A backend-driven attendance system designed around users, attendance records, ro
 
 <td width="50%" valign="top">
 
-## 🤖 Mail → Database Automation
+## Mail → Database Automation
 ### Event-Driven Business Automation
 
 An automation pipeline designed to convert incoming business emails into structured system events.
 
-**⚡ Pipeline**
+** Pipeline**
 
 ```text
-📧 Incoming Email
+ Incoming Email
        ↓
-📎 Extract Data / Documents
+ Extract Data / Documents
        ↓
-🧠 Validate & Classify
+ Validate & Classify
        ↓
-🗃️ Update PostgreSQL
+ Update PostgreSQL
        ↓
-📁 Store Documents in MinIO
+ Store Documents in MinIO
        ↓
-🔄 Trigger Business Workflow
+ Trigger Business Workflow
        ↓
-📊 Reflect in Dashboard
+ Reflect in Dashboard
 ```
 
 **Engineering**
@@ -372,13 +372,13 @@ An automation pipeline designed to convert incoming business emails into structu
 
 ---
 
-## 🧠 The Systems Behind The Projects
+## The Systems Behind The Projects
 
 <table width="100%">
 <tr>
 <td align="center" width="20%">
 
-### 🗄️
+### 
 **DATABASE**
 
 PostgreSQL
@@ -391,7 +391,7 @@ Indexes
 
 <td align="center" width="20%">
 
-### 🔐
+### 
 **SECURITY**
 
 JWT
@@ -404,7 +404,7 @@ Audit Logs
 
 <td align="center" width="20%">
 
-### ⚙️
+### 
 **BACKEND**
 
 NestJS
@@ -417,7 +417,7 @@ Validation
 
 <td align="center" width="20%">
 
-### 📱
+### 
 **CLIENTS**
 
 Flutter
@@ -430,7 +430,7 @@ Dart
 
 <td align="center" width="20%">
 
-### ☁️
+### 
 **INFRA**
 
 Redis
@@ -445,7 +445,7 @@ Linux
 
 <br>
 
-## 🔗 One Database. Multiple Experiences.
+##  One Database. Multiple Experiences.
 
 ```text
                          ┌───────────────────────┐
@@ -477,7 +477,7 @@ Linux
                          └────────────────────┘
 ```
 
-### 🛠️ Engineering Philosophy
+###  Engineering Philosophy
 
 **Design the data model first.
 Build the API around the domain.
@@ -491,7 +491,7 @@ Then build interfaces that make the system useful.**
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -505,7 +505,7 @@ Then build interfaces that make the system useful.**
 </div>
 
 <details>
-<summary align="center">📅 3D Contribution Calendar (click to expand)</summary>
+<summary align="center"> 3D Contribution Calendar (click to expand)</summary>
 <br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Ganeshshit/Ganeshshit/output/github-contribution-grid-snake.svg" width="100%" />
@@ -513,14 +513,6 @@ Then build interfaces that make the system useful.**
 </details>
 
 <br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ganeshshit&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
 
 <br>
 
@@ -536,7 +528,7 @@ Then build interfaces that make the system useful.**
 
 <br>
 
-## 🔝 Top Contributed Repos
+##  Top Contributed Repos
 
 <div align="center">
 
@@ -546,7 +538,7 @@ Then build interfaces that make the system useful.**
 
 <br>
 
-## ✍️ Latest Writing
+##  Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
 <!-- This section auto-fills with your latest Medium posts once the GitHub Action below is set up. -->
