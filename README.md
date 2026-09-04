@@ -541,8 +541,11 @@ Then build interfaces that make the system useful.**
 ##  Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
-<!-- This section auto-fills with your latest Medium posts once the GitHub Action below is set up. -->
-- Set up the auto-update workflow (see `blog-post-workflow.yml`) to pull your latest Medium posts here automatically.
+- [Why Every LMS and Video Platform Needs an FFmpeg Worker](https://medium.com/@shitganesh4/why-every-lms-and-video-platform-needs-an-ffmpeg-worker-7e8fd718b677?source=rss-dfd939d316d5------2)
+- [Merging two applications &lpar;Single Sign-On, SSO](https://medium.com/@shitganesh4/merging-two-applications-single-sign-on-sso-6a73f38175ff?source=rss-dfd939d316d5------2)
+- [How to host website in hostinger through the Github](https://medium.com/@shitganesh4/how-to-host-website-in-hostinger-through-the-github-5bc7ee5ac5cf?source=rss-dfd939d316d5------2)
+- [Getting Started with WebRTC:](https://medium.com/@shitganesh4/getting-started-with-webrtc-64a1dc369012?source=rss-dfd939d316d5------2)
+- [How to Deploy static website on AWS S3](https://medium.com/@shitganesh4/how-to-deploy-static-website-on-aws-s3-3f4575fce6d0?source=rss-dfd939d316d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
