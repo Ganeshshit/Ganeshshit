@@ -540,13 +540,72 @@ Then build interfaces that make the system useful.**
 
 ##  Latest Writing
 
-<!-- BLOG-POST-LIST:START -->
-- [Why Every LMS and Video Platform Needs an FFmpeg Worker](https://medium.com/@shitganesh4/why-every-lms-and-video-platform-needs-an-ffmpeg-worker-7e8fd718b677?source=rss-dfd939d316d5------2)
-- [Merging two applications &lpar;Single Sign-On, SSO](https://medium.com/@shitganesh4/merging-two-applications-single-sign-on-sso-6a73f38175ff?source=rss-dfd939d316d5------2)
-- [How to host website in hostinger through the Github](https://medium.com/@shitganesh4/how-to-host-website-in-hostinger-through-the-github-5bc7ee5ac5cf?source=rss-dfd939d316d5------2)
-- [Getting Started with WebRTC:](https://medium.com/@shitganesh4/getting-started-with-webrtc-64a1dc369012?source=rss-dfd939d316d5------2)
-- [How to Deploy static website on AWS S3](https://medium.com/@shitganesh4/how-to-deploy-static-website-on-aws-s3-3f4575fce6d0?source=rss-dfd939d316d5------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://medium.com/@shitganesh4/why-every-lms-and-video-platform-needs-an-ffmpeg-worker-7e8fd718b677?source=rss-dfd939d316d5------2">
+        <img src="$image_url" width="100%" />
+      </a>
+      <br><br>
+      <h3>
+        <a href="https://medium.com/@shitganesh4/why-every-lms-and-video-platform-needs-an-ffmpeg-worker-7e8fd718b677?source=rss-dfd939d316d5------2">Why Every LMS and Video Platform Needs an FFmpeg Worker</a>
+      </h3>
+      <p>📅 Tue Sep 30 2025 12:42 PM</p>
+    </td>
+  </tr>
+</table><table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://medium.com/@shitganesh4/merging-two-applications-single-sign-on-sso-6a73f38175ff?source=rss-dfd939d316d5------2">
+        <img src="$image_url" width="100%" />
+      </a>
+      <br><br>
+      <h3>
+        <a href="https://medium.com/@shitganesh4/merging-two-applications-single-sign-on-sso-6a73f38175ff?source=rss-dfd939d316d5------2">Merging two applications &lpar;Single Sign-On, SSO</a>
+      </h3>
+      <p>📅 Sat Jun 14 2025 8:59 AM</p>
+    </td>
+  </tr>
+</table><table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://medium.com/@shitganesh4/how-to-host-website-in-hostinger-through-the-github-5bc7ee5ac5cf?source=rss-dfd939d316d5------2">
+        <img src="$image_url" width="100%" />
+      </a>
+      <br><br>
+      <h3>
+        <a href="https://medium.com/@shitganesh4/how-to-host-website-in-hostinger-through-the-github-5bc7ee5ac5cf?source=rss-dfd939d316d5------2">How to host website in hostinger through the Github</a>
+      </h3>
+      <p>📅 Sat May 03 2025 9:26 AM</p>
+    </td>
+  </tr>
+</table><table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://medium.com/@shitganesh4/getting-started-with-webrtc-64a1dc369012?source=rss-dfd939d316d5------2">
+        <img src="$image_url" width="100%" />
+      </a>
+      <br><br>
+      <h3>
+        <a href="https://medium.com/@shitganesh4/getting-started-with-webrtc-64a1dc369012?source=rss-dfd939d316d5------2">Getting Started with WebRTC:</a>
+      </h3>
+      <p>📅 Sun Apr 13 2025 2:16 PM</p>
+    </td>
+  </tr>
+</table><table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://medium.com/@shitganesh4/how-to-deploy-static-website-on-aws-s3-3f4575fce6d0?source=rss-dfd939d316d5------2">
+        <img src="$image_url" width="100%" />
+      </a>
+      <br><br>
+      <h3>
+        <a href="https://medium.com/@shitganesh4/how-to-deploy-static-website-on-aws-s3-3f4575fce6d0?source=rss-dfd939d316d5------2">How to Deploy static website on AWS S3</a>
+      </h3>
+      <p>📅 Thu Jun 29 2023 4:19 PM</p>
+    </td>
+  </tr>
+</table><!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
