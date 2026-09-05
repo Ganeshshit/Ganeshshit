@@ -19,8 +19,8 @@
 <br>
 
 <picture>
-<a href="https://github.com/Ganeshshit" alt="Developer">
-<img src="https://images.weserv.nl/?url=https://github.com/Ganeshshit.png?v=4&h=310&w=310&fit=cover&mask=circle" align="right" width="315">
+<a href="https://github.com/Ganeshshit" alt="It's Me">
+<img src="https://images.weserv.nl/?url=https://github.com/Ganeshshit.png?v=4&h=300&w=300&fit&mask=circle" align="right" width="300">
 </a>
 </picture>
 
