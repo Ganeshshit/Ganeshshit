@@ -40,12 +40,73 @@ currently:
 fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter code"
 ```
 
+
+<h1 align="center"> 🍁 My Skill stack :</h1>
+<h2 align="center"> Frontend  </h2>
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
+
+
+<h2 align="center"> Backend </h2>
+  <div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/gatsby.png" alt="Gatsby" height="50" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+</div>
+
+<h2 align="center">  Devops</h2>
+  <div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://sambitsargam.github.io/readme/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div>
 <br>
+<br>
+<h1 align="center"> Some Fun Stats 📊 </h1>
+<div>
+
+
+</div>
+<div align="center">
+<img width="500px" src="https://awesome-github-stats.azurewebsites.net/user-stats/ganeshshit?cardType=github&theme=radical&preferLogin=false" height="200px"  alt="Sambit's Github stats" />
+ <div align="center"> 
+   <img width="500px" src="https://githu-stats.vercel.app/api/top-langs/?username=Ganeshshit&theme=omni&show_icons=true&hide_border=false&layout=compact"  height="200px" />
+
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 <br>
+
 <br>
+
 
 # My Engineering Arsenal
 
