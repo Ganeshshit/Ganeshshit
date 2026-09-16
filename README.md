@@ -95,7 +95,7 @@ fun_fact: "I prototype animation feel in plain HTML/CSS before touching Flutter 
 
 </div>
 <div align="center">
-<img width="500px" src="https://awesome-github-stats.azurewebsites.net/user-stats/ganeshshit?cardType=github&theme=radical&preferLogin=false" height="200px"  alt="Sambit's Github stats" />
+<img width="500px" src="https://awesome-github-stats.azurewebsites.net/user-stats/ganeshshit?cardType=github&theme=radical&preferLogin=false" height="200px"  alt="Ganesh's Github stats" />
  <div align="center"> 
    <img width="500px" src="https://githu-stats.vercel.app/api/top-langs/?username=Ganeshshit&theme=omni&show_icons=true&hide_border=false&layout=compact"  height="200px" />
 
@@ -558,13 +558,13 @@ Then build interfaces that make the system useful.**
 ##  GitHub Stats
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ganeshshit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshshit&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ganeshshit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> -->
+  
+<!-- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshshit&layout=compact&theme=tokyonight&hide_border=true" /> -->
 
 <img src="https://streak-stats.demolab.com?user=Ganeshshit&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshshit&theme=tokyo-night&hide_border=true" />
+<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshshit&theme=tokyo-night&hide_border=true" /> -->
 
 </div>
 
